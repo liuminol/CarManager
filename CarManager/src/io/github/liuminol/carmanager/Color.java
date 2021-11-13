@@ -2,7 +2,7 @@ package io.github.liuminol.carmanager;
 
 public enum Color {
 
-	WHITE, GREEN, BLACK, BLUE;
+	WHITE, GREEN, BLACK, BLUE, RED;
 
 	@Override
     public String toString() {
